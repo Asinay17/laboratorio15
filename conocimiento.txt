@@ -1,0 +1,3 @@
+hola|Hola, ¿cómo estás?
+¿cómo te llamas?|Soy un chatbot simple.
+adiós|Hasta pronto.
